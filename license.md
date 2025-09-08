@@ -12,7 +12,7 @@ You may **only** access this website through a web browser for personal, non-com
 
 ## Prohibited Actions
 
-Without prior written consent from [Your Name or Company], you **may not**:
+Without prior written consent from Mahyar Gorji, you **may not**:
 
 1. Copy, reproduce, download, distribute, or modify any content or assets.
 2. Capture screenshots, scrape data, or create derivative works from the site.
