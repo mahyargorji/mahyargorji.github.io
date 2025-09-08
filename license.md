@@ -26,7 +26,7 @@ Code examples provided are for personal reference only. They **cannot be reused,
 
 ## Trademarks and Branding
 
-All logos, service marks, and brand identifiers are property of [Your Name or Company]. Unauthorized use is strictly prohibited.
+All logos, service marks, and brand identifiers are property of Mahyar Gorji. Unauthorized use is strictly prohibited.
 
 ## Legal Enforcement
 
